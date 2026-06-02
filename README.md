@@ -177,7 +177,3 @@ Takes the analyst's report and drafts a cold outreach email targeting a specifie
 - Slack messages are capped at 2900 characters; longer reports are truncated
 
 ---
-
-## License
-
-MIT
