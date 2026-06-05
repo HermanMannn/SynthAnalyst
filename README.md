@@ -140,7 +140,7 @@ Results will be posted to the channel within 1–2 minutes.
 
 ```
 synthanalyst/
-├── main.py          # FastAPI server + CrewAI agent logic
+├── app.py          # FastAPI server + CrewAI agent logic
 ├── start.bat        # One-click startup script
 ├── .env             # API keys (never commit this)
 ├── .env.example     # Template for .env
